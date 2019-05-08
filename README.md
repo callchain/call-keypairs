@@ -1,4 +1,4 @@
-# call-keypairs [![NPM](https://img.shields.io/npm/v/call-keypairs.svg)](https://npmjs.org/package/call-keypairs) [![Build Status](https://img.shields.io/travis/call/call-keypairs/master.svg)](https://travis-ci.org/call/call-keypairs) [![codecov.io](http://codecov.io/github/call/call-keypairs/coverage.svg?branch=master)](http://codecov.io/github/call/call-keypairs?branch=master)
+# call-keypairs
 
 An implementation of call keypairs & wallet generation using
 [elliptic](https://github.com/indutny/elliptic) which supports rfc6979 and
